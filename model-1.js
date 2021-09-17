@@ -12,3 +12,8 @@ var numberOfColoradoStickers = 3
 var isHot = false
 var isCold = true
 var lexyLoves = true
+
+//Arrays
+var colorsOfArizonaSticker = [black, white, yellow, red, navy blue]
+var colorsOfGlacierSticker = [teal, purple, pink, orange, yellow]
+var colorsOfMellySticker = [yellow, black, white]
