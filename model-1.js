@@ -17,3 +17,22 @@ var lexyLoves = true
 var colorsOfArizonaSticker = [black, white, yellow, red, navy blue]
 var colorsOfGlacierSticker = [teal, purple, pink, orange, yellow]
 var colorsOfMellySticker = [yellow, black, white]
+
+//Objects
+var appalachianTrailSticker = {
+  name: "AT Sticker",
+  shape: "circle",
+  size: "4 inches"
+};
+
+var continentialDivideSticker = {
+  name: "CDT Sticker",
+  shape: "rounded triangle",
+  size: "3 inches"
+};
+
+var pacificCrestSticker = {
+  name: "PCT Sticker",
+  shape: "rounded triangle",
+  size: "3 inches"
+};
